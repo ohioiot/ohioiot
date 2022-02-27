@@ -1,4 +1,4 @@
-#OhioIoT
+# OhioIoT
 
-##Pushing the Internet of Things in Every Direction
+## Pushing the Internet of Things in Every Direction
 
